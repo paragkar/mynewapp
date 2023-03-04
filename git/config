@@ -5,9 +5,3 @@
 	logallrefupdates = true
 	ignorecase = true
 	precomposeunicode = true
-[remote "origin"]
-	url = https://github.com/paragkar/currapp.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[remote "github"]
-	url = https://github.com/paragkar/mynewcurrapp.git
-	fetch = +refs/heads/*:refs/remotes/github/*

@@ -12,8 +12,6 @@ from plotly.offline import init_notebook_mode, iplot
 import dash_bootstrap_components as dbc 
 import os
 
-os.chdir("/Users/pkar/Documents/Documents - Parag’s MacBook Pro/parag_qc_files/2022/2022_11_26_New_Data_Processing/Currency_Rates") #working dir
-print(os.getcwd())
 
 #incoporate data in the app
 
